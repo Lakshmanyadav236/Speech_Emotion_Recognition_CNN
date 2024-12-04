@@ -1,4 +1,6 @@
 
+---
+
 # Speech Emotion Recognition using CNN
 
 This repository contains the implementation of a **Speech Emotion Recognition (SER)** system leveraging **Convolutional Neural Networks (CNNs)**. The system classifies speech signals into distinct emotional categories based on extracted audio features.
@@ -14,6 +16,7 @@ This repository contains the implementation of a **Speech Emotion Recognition (S
 5. [Model Details](#model-details)
 6. [Results](#results)
 7. [Contributing](#contributing)
+8. [Download Resources](#download-resources)
 
 ---
 
@@ -63,11 +66,14 @@ These datasets are preprocessed to extract features and generate labels correspo
 ---
 
 ## Installation
+
 Clone this repository:
    ```bash
    git clone https://github.com/Lakshmanyadav236/Speech_Emotion_Recognition_CNN.git
    cd speech-emotion-recognition-cnn
    ```
+
+
 
 ---
 
@@ -102,5 +108,13 @@ Clone this repository:
 Contributions are welcome! Feel free to:
 1. Open an issue for discussions.
 2. Submit a pull request for improvements or new features.
+
+---
+
+## Download Resources
+
+### `emotions.csv`
+The preprocessed emotion labels and file paths are stored in `emotions.csv`.  
+[Download `emotions.csv` from Google Drive](https://drive.google.com/file/d/1lI-3pNvUYRskNBJ55OdDIj9NzOX4uxeF/view?usp=sharing)
 
 ---
